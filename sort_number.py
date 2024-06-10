@@ -20,6 +20,3 @@ c = int(input("Enter third integer: "))
 x, y, z = sort_numbers(a, b, c)
 print("Original numbers: ", a, b, c)
 print("Sorted numbers: ", x, y, z )
-
-
-
